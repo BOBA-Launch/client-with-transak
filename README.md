@@ -6,8 +6,8 @@ function BuyCrypto() {
     <div style={{ height: '800px' }}>
       <iframe
         title="Transak On/Off Ramp Widget (Website)"
-        src="https://staging-global.transak.com?apiKey=b42f80c6-09e3-4995-a781-660fc5a2c8f4&defaultCryptoCurrency=ETH"
-      ></iframe>
+        src="https://staging-global.transak.com?apiKey=b42f80c6-09e3-4995-a781-660fc5a2c8f4&defaultCryptoCurrency=ETH">
+      </iframe>
     </div>
   );
 }
