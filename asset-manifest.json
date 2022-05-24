@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.368fdcae.chunk.css",
-    "main.js": "/static/js/main.3ea2ee48.chunk.js",
-    "main.js.map": "/static/js/main.3ea2ee48.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9b30ce34.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9b30ce34.js.map",
+    "main.js": "/static/js/main.05bb4d40.chunk.js",
+    "main.js.map": "/static/js/main.05bb4d40.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8d3c0dc7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8d3c0dc7.js.map",
     "static/css/2.1881a404.chunk.css": "/static/css/2.1881a404.chunk.css",
-    "static/js/2.52611e12.chunk.js": "/static/js/2.52611e12.chunk.js",
-    "static/js/2.52611e12.chunk.js.map": "/static/js/2.52611e12.chunk.js.map",
-    "static/js/3.8671f834.chunk.js": "/static/js/3.8671f834.chunk.js",
-    "static/js/3.8671f834.chunk.js.map": "/static/js/3.8671f834.chunk.js.map",
-    "static/js/4.628e8dab.chunk.js": "/static/js/4.628e8dab.chunk.js",
-    "static/js/4.628e8dab.chunk.js.map": "/static/js/4.628e8dab.chunk.js.map",
+    "static/js/2.c723d703.chunk.js": "/static/js/2.c723d703.chunk.js",
+    "static/js/2.c723d703.chunk.js.map": "/static/js/2.c723d703.chunk.js.map",
+    "static/js/3.9c4035b5.chunk.js": "/static/js/3.9c4035b5.chunk.js",
+    "static/js/3.9c4035b5.chunk.js.map": "/static/js/3.9c4035b5.chunk.js.map",
+    "static/js/4.636dea63.chunk.js": "/static/js/4.636dea63.chunk.js",
+    "static/js/4.636dea63.chunk.js.map": "/static/js/4.636dea63.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.1881a404.chunk.css.map": "/static/css/2.1881a404.chunk.css.map",
     "static/css/main.368fdcae.chunk.css.map": "/static/css/main.368fdcae.chunk.css.map",
-    "static/js/2.52611e12.chunk.js.LICENSE.txt": "/static/js/2.52611e12.chunk.js.LICENSE.txt",
+    "static/js/2.c723d703.chunk.js.LICENSE.txt": "/static/js/2.c723d703.chunk.js.LICENSE.txt",
     "static/media/BSCImg.691d3278.png": "/static/media/BSCImg.691d3278.png",
     "static/media/EtheriumLogoImg.e867c9a9.png": "/static/media/EtheriumLogoImg.e867c9a9.png",
     "static/media/MetaMaskImg.dabbc866.png": "/static/media/MetaMaskImg.dabbc866.png",
@@ -33,10 +33,10 @@
     "static/media/walletconnect.0aecac1d.png": "/static/media/walletconnect.0aecac1d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b30ce34.js",
+    "static/js/runtime-main.8d3c0dc7.js",
     "static/css/2.1881a404.chunk.css",
-    "static/js/2.52611e12.chunk.js",
+    "static/js/2.c723d703.chunk.js",
     "static/css/main.368fdcae.chunk.css",
-    "static/js/main.3ea2ee48.chunk.js"
+    "static/js/main.05bb4d40.chunk.js"
   ]
 }
